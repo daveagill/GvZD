@@ -34,7 +34,7 @@ Credits
 * David Gill
 
 #### Font
-* "DINk" (c) Tension Type, Michael Tension.  
+* "DINk" &copy; Tension Type, Michael Tension.  
   *Downloaded At:* http://www.fontspace.com/tension-type/dink  
   *License:* /assets/fonts/DINk Licence.txt
 
