@@ -51,6 +51,10 @@ Credits
   *Downloaded At:* http://www.freesound.org/people/jjwallace/sounds/121620/  
   *License:* http://creativecommons.org/licenses/by/3.0/
 
+#### 3rd Party Libraries
+* libgdx 0.9.8 (http://libgdx.badlogicgames.com/)  
+  *License:* /lib/LICENSE
+
 Legal
 -----
 Except where otherwise stated in the Credits, all content is copyright &copy; 2013 David Gill and licensed under the MIT license, see: /LICENSE
