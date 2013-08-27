@@ -59,7 +59,7 @@ public class ApplicationEventListener implements ApplicationListener {
 		highscoresGameState.addNextGameState(startScreenGameState, startScreenGameState);
 		highscoresGameState.addNextGameState(gameOverGameState, playingGameState);
 		
-		currentGameState = playingGameState;//startScreenGameState;
+		currentGameState = startScreenGameState;
 		currentGameState.enter(null);
 		
 		lastFrameTimeNanos = getTime();
